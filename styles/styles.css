@@ -8,3 +8,21 @@ body {
     border-color: black;
     border: 200px;
 }
+
+.mt-1 {
+    margin-top: 100px !important;
+}
+
+.send_message {
+    margin-left: 300px;
+}
+
+.back-button {
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+.input-textfield {
+    padding-right: 270px;
+    padding-bottom: 80px;
+}
